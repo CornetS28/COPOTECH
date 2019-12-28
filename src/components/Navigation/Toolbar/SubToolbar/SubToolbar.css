@@ -1,0 +1,16 @@
+.SubToolbar {
+  height: 30px;
+  width: 32%;
+  position: fixed;
+  top: 0;
+  background-color: rgb(221, 106, 30);
+  display: flex;
+  justify-content: space-between;;
+  align-items: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  z-index: 100;
+  color: white;
+  padding: 0 1rem 0 1rem;
+  margin-left: 18%;
+}
